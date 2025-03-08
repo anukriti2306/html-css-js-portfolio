@@ -2,5 +2,5 @@ Developed this sample portfolio website using : https://youtu.be/ldwlOzRvYOU?fea
 
 HTML, CSS, JavaScript
 
-Finished website on :https://anukritisharma23.netlify.app/
+Finished website on : https://anukritisharma23.netlify.app/
 
